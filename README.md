@@ -1,4 +1,4 @@
-# Image dithering project work
+# Image dithering project
 ## Contents:
 1) **dsandykbayeva_hwP2.pdf** - PDF file with the project description
 2) **main_testbench.m** - MATLAB file that contains a testbench for all the functions listed in the project
