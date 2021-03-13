@@ -1,4 +1,14 @@
 # Image dithering project work
+## Contents:
+1) **dsandykbayeva_hwP2.pdf** - PDF file with the project description
+2) **main_testbench.m** - MATLAB file that contains a testbench for all the functions listed in the project
+3) **robt310_project2_dither.m** - MATLAB file that contains the code for Image dithering function
+4) **robt310_project2_histogram_equalize.m** - MATLAB file that contains the code for Local (40-by-40) Histogram equalization function
+5) **robt310_project2_interpolation.m** - MATLAB file that contains the code for Nearest-Neighbor Interpolation function
+6) **landscape.jpg** - original image used for dithering example
+7) **B_dith_output.jpg** and **FS_dith_output.jpg** - results of Bayer (Ordered) dithering and Floyd–Steinberg dithering respectfully
+8) **wm_1_1.jpg** and **output01.jpg** - original and result image from the Nearest-Neighbor Interpolation function
+9) **secret.png** and **output01_2.jpg** - original and result from the Local (40-by-40) Histogram equalization function
 ## Part I - Warm up tasks
 #### Task 1.1 - Nearest-Neighbor Interpolation
 The first task was to implement Nearest-Neighbor Interpolation algorithm for a gray-scale image as a scaling function. 
